@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FamilyMapServer.iml" filepath="$PROJECT_DIR$/FamilyMapServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gson-2.6.2/gson-2.6.2.iml" filepath="$PROJECT_DIR$/gson-2.6.2/gson-2.6.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hamcrest-core-1.3/hamcrest-core-1.3.iml" filepath="$PROJECT_DIR$/hamcrest-core-1.3/hamcrest-core-1.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/json-20140107/json-20140107.iml" filepath="$PROJECT_DIR$/json-20140107/json-20140107.iml" />
+      <module fileurl="file://$PROJECT_DIR$/junit-4.12/junit-4.12.iml" filepath="$PROJECT_DIR$/junit-4.12/junit-4.12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlite-jdbc-3.7.2/sqlite-jdbc-3.7.2.iml" filepath="$PROJECT_DIR$/sqlite-jdbc-3.7.2/sqlite-jdbc-3.7.2.iml" />
+    </modules>
+  </component>
+</project>
